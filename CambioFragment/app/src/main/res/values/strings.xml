@@ -1,0 +1,18 @@
+<resources>
+    <!--TEXTO PARA LOS BOTONES DE INICIO-->
+    <string name="app_name">CambioFragment</string>
+    <string name="botonFragment1">LinearLayout</string>
+    <string name="botonFragment2">RelativeLayout</string>
+    <string name="botonFragment3">FrameLayout</string>
+    <string name="botonFragment4">ConstrainLayout</string>
+    <string name="botonFragment5">CardView</string>
+    <string name="botonFragment6">ListView</string>
+    <!-- texto para los fragmentos -->
+    <string name="fragment1">LinearLayout</string>
+    <string name="fragment2">Padre</string>
+    <string name="fragment3">FrameLayout</string>
+    <string name="fragment4">ConstrainLayout</string>
+    <string name="fragment5">CardView</string>
+    <string name="fragment6">ListView</string>
+    <string name="nombreActivity">Activity 2</string>
+</resources>
